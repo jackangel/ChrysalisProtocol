@@ -1,7 +1,7 @@
 # Chrysalis: An Open Architecture for the Machine Transition
 
 **Edition 1.1** · November 2026 · Public Consultation Edition  
-**Authorship:** Conceived and directed by Manuel Barca-Grama with AI-assisted research and drafting (see §4 for full methodology and limitations).
+**Authorship:** Conceived and directed by me with AI-assisted research and drafting (see §4 for full methodology and limitations).
 
 ---
 
